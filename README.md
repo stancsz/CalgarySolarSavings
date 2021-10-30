@@ -1,4 +1,4 @@
-# CalgarySolarSavings
+# Flask App Greener Calgary
 For Hackathon 2021<br>
 To run the server, run `python app.py` from the root folder of the github repo. 
 
